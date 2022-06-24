@@ -72,7 +72,7 @@ for (let i = 0; i < linkNav.length; i++) {
 }
 
 
-let countDownDate = new Date("Jan 8, 2023 00:00:00").getTime();
+let countDownDate = new Date("Jan 8, 2076 00:00:00").getTime();
 
 let countDownFunction = setInterval(function () {
 
